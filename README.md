@@ -22,4 +22,12 @@
 
 ## Part 2: Create ways to view the grid, block by block and the whole map
 
+- matplotlib
+- other python grid viewers?
+
 ## Part 3: Style the empty parts of the map with the remaining squares (detailed in map uilding guide)
+
+- etch-a-sketch type idea
+- program to randomly draw it
+- math to draw it (eg fractals)
+- transfer art/photos onto the grid

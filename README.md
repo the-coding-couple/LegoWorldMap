@@ -22,7 +22,7 @@
 
 ## Part 2: Create ways to view the grid, block by block and the whole map
 
-- matplotlib
+- matplotlib, cv2
 - other python grid viewers?
 
 ## Part 3: Style the empty parts of the map with the remaining squares (detailed in map uilding guide)

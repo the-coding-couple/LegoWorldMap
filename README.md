@@ -56,4 +56,7 @@ so all packages are contained within project itself and not just system, we all 
 - packages installed with pip3 install:
   numpy, matplotlib, opencv-python, glob2, flask, flask-sqlalchemy, Pillow
 
+- activate virtual environment: source env/bin/activate
+- load dependency packages:  pip3 install -r requirements.txt
+
 python3 app.py >> <http://localhost:5000/>

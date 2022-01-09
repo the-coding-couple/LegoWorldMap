@@ -33,7 +33,7 @@ We gathered images of the map blocks from the lego handbook for this project and
 
 We used python notebooks to populate a numpy grid with the square values and then constructed a colored grid that contains ther RGB values where 1 pixel represents 1 square. This can be viewed with matplotlib and is saved as [colored_grid.jpg](colored_grid.jpg).
 
-## Part 3: Style the empty parts of the map with the remaining squares (detailed in map uilding guide)
+## Part 3: Make a website viewer of grid to interact with it
 
 
 ## Part 4: Style the empty parts of the map with the remaining squares (detailed in map uilding guide)
@@ -54,6 +54,6 @@ so all packages are contained within project itself and not just system, we all 
 - activated env: source env/bin/activate
 
 - packages installed with pip3 install:
-  numpy, matplotlib, opencv-python, glob2, flask, flask-sqlalchemy
+  numpy, matplotlib, opencv-python, glob2, flask, flask-sqlalchemy, Pillow
 
-python3 app.py >> http://localhost:5000/
+python3 app.py >> <http://localhost:5000/>

@@ -20,12 +20,23 @@
 
 - use neural net to read numbers of block images?
 
+### Part 1 Solution
+
+We gathered images of the map blocks from the lego handbook for this project and were able to pinpoint pixel values from each square to indicate what color square it is.
+
 ## Part 2: Create ways to view the grid, block by block and the whole map
 
 - matplotlib
 - other python grid viewers?
 
+### Part 2 Solution
+
+We used python notebooks to populate a numpy grid with the square values and then constructed a colored grid that contains ther RGB values where 1 pixel represents 1 square. This can be viewed with matplotlib and is saved as [colored_grid.jpg](colored_grid.jpg).
+
 ## Part 3: Style the empty parts of the map with the remaining squares (detailed in map uilding guide)
+
+
+## Part 4: Style the empty parts of the map with the remaining squares (detailed in map uilding guide)
 
 - etch-a-sketch type idea
 - program to randomly draw it

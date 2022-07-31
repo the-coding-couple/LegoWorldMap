@@ -1,5 +1,7 @@
 # LegoWorldMap
 
+Programmatically representing lego world map to ultimately to uniquely style the oceans
+
 ## Goal: programmatically represent and style the [lego world map](https://www.lego.com/en-us/product/world-map-31203)
 
 - The map is represented by a series of square blocks that can be put together to make the world map.
